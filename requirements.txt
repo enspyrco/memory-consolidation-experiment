@@ -1,0 +1,25 @@
+# Core (from D-MEM)
+numpy
+sentence-transformers
+scikit-learn
+torch
+transformers
+nltk
+rank-bm25
+
+# LLM API clients
+openai
+litellm
+anthropic
+
+# Evaluation metrics
+rouge-score
+bert-score
+
+# Utilities
+tqdm
+pandas
+python-dotenv
+
+# Graph analysis
+networkx
